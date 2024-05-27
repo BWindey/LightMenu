@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "SimpleMenu"
+version = "1.0"
+authors = [
+    { name = "Bram Windey", email = "windey.bram@gmail.com" },
+]
+description = "A simple terminal menu relying on unicode characters"
+readme = "README.md"
+requires-python = ">=3.8"
+license = { file = "LICENSE" }
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+]
+dependencies = [
+]
+keywords = ["terminal", "unicode", "menu"]
+
+[project.urls]
+Homepage = "https://github.com/BWindey/SimpleMenu"
