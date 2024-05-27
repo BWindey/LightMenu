@@ -17,8 +17,6 @@ classifiers = [
     "Programming Language :: Python",
     "Programming Language :: Python :: 3",
 ]
-dependencies = [
-]
 keywords = ["terminal", "unicode", "menu"]
 
 [project.urls]
