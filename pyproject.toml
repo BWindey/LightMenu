@@ -3,7 +3,7 @@ requires = ["setuptools", "setuptools-scm"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "SimpleMenu"
+name = "LightMenu"
 version = "1.0"
 authors = [
     { name = "Bram Windey", email = "windey.bram@gmail.com" },
