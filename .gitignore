@@ -1,5 +1,5 @@
 .idea
 __pycache__
 build
-DodonaCLI.egg-info
 dist
+SimpleMenu.egg-info
