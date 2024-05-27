@@ -1,3 +1,4 @@
+# Work In Progress
 # LightMenu
 A simple lightweight terminal menu.
 
